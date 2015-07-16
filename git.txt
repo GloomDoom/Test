@@ -13,3 +13,5 @@ git init
 git status
 git add
 git add . גסו פאיכû
+
+git commit -m "comment"
