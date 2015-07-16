@@ -1,0 +1,15 @@
+git config --global user.name "GloomDoom"
+git config --global user.email "dumglum@gmail.com"
+
+git config --list посмотреть настройки
+
+git help commit
+git commit --help
+
+Создание
+cd D:/Rep/Test
+git init
+
+git status
+git add
+git add . все файлы
