@@ -13,5 +13,6 @@ git init
 git status
 git add
 git add . גסו פאיכû
+git add file.txt מהטם פאיכ
 
 git commit -m "comment"
