@@ -16,3 +16,6 @@ git add . все файлы
 git add file.txt один файл
 
 git commit -m "comment"
+
+git remote add origin https://github.com/GloomDoom/Test.git добавить удаленный репозиторий
+git push -u origin master толкнуть в репозиторий
